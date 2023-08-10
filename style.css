@@ -84,12 +84,18 @@ button:hover{
   .main-container {
 
   }
+  .top{
+    height:35%
+  }
   .bottom-container {
     flex-direction:row;
-    height:100%
+    height:65%
   }
   .bottom-left{
     flex-basis:50%
+  }
+  button{
+    margin-bottom:20px;
   }
   .bottom-right{
     flex-basis:50%
