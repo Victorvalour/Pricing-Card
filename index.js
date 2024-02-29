@@ -1,2 +1,3 @@
-document.querySelector('#but')
-but.onclick = () => alert('Congratulations on Signing Up')
+document.querySelector("#but");
+but.onclick = () => alert("Congratulations on Signing Up");
+//Should be in main
